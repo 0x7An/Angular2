@@ -1,4 +1,8 @@
 body {
-  background-color: #252830;
+	background-color: #252830;
+	font-family: 'Ubuntu', sans-serif;
+}
 
+.headline {
+	color: white;
 }
